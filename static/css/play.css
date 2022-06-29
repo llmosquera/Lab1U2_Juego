@@ -1,0 +1,26 @@
+
+canvas {
+    background-image: url(https://st3.depositphotos.com/5479200/15413/v/600/depositphotos_154134758-stock-illustration-cartoon-night-game-background-seamless.jpg);
+    border:2px solid black;
+    
+    
+}
+
+
+body {
+ 
+   /* align-self: center !important;*/
+    background-image: url(https://c.tenor.com/hUVSgG63H6cAAAAC/luces-movimiento.gif);
+    display: flex;
+    justify-content: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+   
+}
