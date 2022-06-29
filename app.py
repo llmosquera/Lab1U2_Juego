@@ -19,6 +19,7 @@ def index():
       #restorna la plantilla jueguito.html
     return render_template('index.html')
 
+#ejecucion del servidor local
 if __name__ == '__main__':
     #debug para reiniciar el servidor
     app.run(debug=True)   
